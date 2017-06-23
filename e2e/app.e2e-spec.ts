@@ -2,7 +2,8 @@ import { PerdidonotestePage } from './app.po';
 
 describe('perdidonoteste App', () => {
   let page: PerdidonotestePage;
-
+//isso é uma edição 
+//Essa tambem
   beforeEach(() => {
     page = new PerdidonotestePage();
   });
