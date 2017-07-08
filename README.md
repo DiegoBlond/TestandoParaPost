@@ -1,8 +1,10 @@
 # Perdidonoteste
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.3.
-Veio aqui xeretar né? :p
-veja minha lista em markdown: 
+
+##Veio aqui xeretar né? :p
+
+Teste de lista em markdown: 
 - 1º item 
 - 2º item
 
